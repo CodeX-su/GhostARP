@@ -10,9 +10,6 @@ Una herramienta gráfica (GUI) desarrollada en Python para realizar ataques de A
 - Envío continuo de paquetes ARP spoofing
 - Soporte para múltiples sistemas (Windows, Linux, MacOS)
 
-## 🖼️ Captura de pantalla
-
-*Próximamente*
 
 ## 🚀 Instalación
 
