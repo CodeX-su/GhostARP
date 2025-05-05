@@ -1,0 +1,3 @@
+scapy
+uuid
+mac-vendor-lookup
