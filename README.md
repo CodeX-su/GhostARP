@@ -19,7 +19,7 @@ Una herramienta gráfica (GUI) desarrollada en Python para realizar ataques de A
 Clona el repositorio y navega a la carpeta del proyecto:
 
 ```bash
-git clone https://github.com/tuusuario/nombre-del-repo.git
+git clone https://github.com/CodeX-su/GhostARP/
 cd nombre-del-repo
 ```
 
